@@ -11,8 +11,9 @@ author: 'Youngbin Han'
 
 paginate:	5
 
-url: "http://indeex.org" # the base hostname & protocol for your site
-baseurl: "/jekyll-theme-mdl"
+#url: "http://indeex.org" # the base hostname & protocol for your site
+url: "/jekyll-theme-mdl"
+baseurl: ""
 
 #Your Disqus Shortname
 disqus_shortname: disqus
